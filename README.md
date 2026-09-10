@@ -32,4 +32,4 @@ To run this website locally on your machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/salarapo/create_website.git](https://github.com/salarapo/create_website.git)
+   git clone [https://github.com/salarapo/create_website.git]
